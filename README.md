@@ -1,4 +1,4 @@
-# Spotify Artist Search — Spring Boot Backend
+# Spotify Artist Search - Spring Boot Backend
 
 ## Description
 
